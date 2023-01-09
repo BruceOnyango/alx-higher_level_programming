@@ -1,1 +1,1 @@
-Solution to tasks on Python data structures
+Directory for python data structures
