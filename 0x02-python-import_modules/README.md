@@ -1,1 +1,1 @@
-Directory for python modules projects
+# Solutions to tasks on modules
